@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JaxsonLau/Jaxson.git"
+       
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/JaxsonLau/Jaxson/issues"
+       
     },
     "homepage": "https://github.com/JaxsonLau/Jaxson#readme"
 }
